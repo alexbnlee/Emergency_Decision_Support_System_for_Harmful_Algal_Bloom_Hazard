@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.mdb linguist-language=C#
+*.dll linguist-language=C#
